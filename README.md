@@ -1,5 +1,5 @@
 # 📌 Project Title  
-**[Your Project Name Here]**
+**This is my firt Prctical of Ml Ops**
 
 ## 🧠 Description  
 This project is a [short description of your project].  
